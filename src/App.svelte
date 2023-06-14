@@ -10,4 +10,9 @@ import 'dbn-ui-test-1/web'
 </main>
 
 <style>
+  main {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
 </style>
