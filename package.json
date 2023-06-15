@@ -19,6 +19,6 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "dbn-ui-test-1": "^0.0.7"
+    "@databrainhq/plugin": "^0.11.7"
   }
 }
