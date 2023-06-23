@@ -8,7 +8,7 @@ const dashboardId = urlParams.get('dashboardId');
 <main>
   <dbn-dashboard
     token={token}
-    dashboardId={dashboardId}
+    dashboard-id={dashboardId}
   />
 </main>
 
